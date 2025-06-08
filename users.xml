@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <password>573734562452</password>
+        <ime>Ivan</ime>
+        <prezime>Horvat</prezime>
+    </user>
+    <user>
+        <username>korisnik</username>
+        <password>5475483835835</password>
+        <ime>Ana</ime>
+        <prezime>Kovač</prezime>
+    </user>
+</users>
